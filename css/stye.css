@@ -262,7 +262,6 @@ section.video video {
 }
 
 section.video .overlay {
-  background-color: rgba(130, 77, 178, 0.9);
   min-height: 100%;
   position: absolute;
   inset: 0;
